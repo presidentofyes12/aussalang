@@ -1,0 +1,4 @@
+var h = "hello!!!"
+print h
+var hello = "h!!!"
+print hello
